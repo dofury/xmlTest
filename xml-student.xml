@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="xml-stylesheet.css"?>
+<students>
+    <student>
+        <name>홍길동</name>
+        <age>30</age>
+        <address>서울쌍문동</address>
+        <email>hong@nakook.ac.kr</email>
+    </student>
+</students>
